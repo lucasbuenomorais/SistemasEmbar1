@@ -26,4 +26,6 @@ int main()
 	LT_XOR_char(a,b,2,a);
 	LT_XOR_char(a,b,2,a);
 	return 0;
+	
+	Tutorial Sist. Embar.
 }
